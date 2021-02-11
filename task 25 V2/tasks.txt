@@ -1,0 +1,3 @@
+ Assigned to 		| 	 admin , Task 				| 	 Register Users with taskManager.py , Date Subbited 		| 	 2021-01-27 , Due Date 			| 	 20 Oct 2021 , Task Descirption 	| 	 Use taskManager.py to add the usernames and passwords for all team members that will be using this program., Completed 			| 	 No
+ Assigned to 		| 	 admin , Task 				| 	 Assign initial tasks , Date Subbited 		| 	 2021-01-27 , Due Date 			| 	 25 Oct 2021 , Task Descirption 	| 	 Use taskManager.py to assign each team member with appropriate tasks, Completed 			| 	 No
+ Assigned to 		| 	 logan , Task 				| 	 this program works somehow, woop woop , Date Subbited 		| 	 2021-01-27 , Due Date 			| 	 89/13/3098 , Task Descirption 	| 	 This is a cool description, cool ey?, Completed 			| 	 No
