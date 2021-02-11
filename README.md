@@ -27,9 +27,8 @@ An old version of the task_manager program (task 25). Below are the current feat
 ---------------------------------------------------------------------------------------------
 ## HOW TO GET IT TO WORK
 
-To use this program you will have to install Javas development kit (JDK) of version 8 or higher. Then
-you will need to install an IDE (inteliJ suggested) and open the file in there. Press the run button
-and you will be prompted to enter the data.
+To use this program you will have to install Python (the latest verion) and preferrably install and IDE for python (pycharm is suggested)
+open the file and run it and it will give you a set of messages encouraging you to enter the correct set of information
 
 ---------------------------------------------------------------------------------------------
 ## CONTRIBUTERS
