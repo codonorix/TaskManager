@@ -33,4 +33,4 @@ open the file and run it and it will give you a set of messages encouraging you 
 ---------------------------------------------------------------------------------------------
 ## CONTRIBUTERS
 
-* Logan2971/Codonorix (Project owner)
+* Codonorix (Project owner)
